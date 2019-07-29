@@ -16,9 +16,9 @@ https://www.w3schools.com/js/js_loop_for.asp<br/>
 
 Mas tem outros links:
 
-http://www.javascript-tutorial.com.br/content-4.html
-http://www.javascript-tutorial.com.br/content-6.html
-http://www.javascript-tutorial.com.br/content-9.html
+http://www.javascript-tutorial.com.br/content-4.html<br/>
+http://www.javascript-tutorial.com.br/content-6.html<br/>
+http://www.javascript-tutorial.com.br/content-9.html<br/>
 
 
 Se você não passar fique tranquilo! Vamos te ajudar novamente na resolução dos exercícios do nivelamento. Não existe um limite no número de tentativas do desafio.
